@@ -231,7 +231,7 @@ class _CustomImageAnimationState extends State<CustomImageAnimation> {
             color: Colors.black54,
             child: Image(
               fit: BoxFit.cover,
-              image: AssetImage("images/pic1.jpg"),
+              image: AssetImage("assets/images/pic1.jpg"),
             ),
           ),
           Container(

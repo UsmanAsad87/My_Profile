@@ -406,7 +406,7 @@ class _MobileHomeState extends State<MobileHome> {
               ),
 
               FeatureProjectMobile(
-                imagePath: "images/ChatGPT.png",
+                imagePath: "assets/images/ChatGPT.png",
                 ontab: () {
                   method.launchURL(
                       "https://github.com/UsmanAsad87/ChatGPT_Flutter_App");
@@ -421,7 +421,7 @@ class _MobileHomeState extends State<MobileHome> {
 
 
               FeatureProjectMobile(
-                imagePath: "images/Groupie.gif",
+                imagePath: "assets/images/Groupie.gif",
                 ontab: () {
                   method.launchURL(
                       "https://github.com/UsmanAsad87/Group-Chat-App");
@@ -435,7 +435,7 @@ class _MobileHomeState extends State<MobileHome> {
               ),
 
               FeatureProjectMobile(
-                imagePath: "images/boiler.png",
+                imagePath: "assets/images/boiler.png",
                 ontab: () {
                   method.launchURL(
                       "https://github.com/UsmanAsad87");
@@ -449,7 +449,7 @@ class _MobileHomeState extends State<MobileHome> {
               ),
 
               FeatureProjectMobile(
-                imagePath: "images/Melanated_Audacity.gif",
+                imagePath: "assets/images/Melanated_Audacity.gif",
                 ontab: () {
                   method.launchURL(
                       "https://github.com/UsmanAsad87");
@@ -463,7 +463,7 @@ class _MobileHomeState extends State<MobileHome> {
               ),
               //ff
               FeatureProjectMobile(
-                imagePath: "images/PlantApp.png",
+                imagePath: "assets/images/PlantApp.png",
                 ontab: () {
                   method.launchURL(
                       "https://github.com/UsmanAsad87/The-Plant-App");
@@ -477,7 +477,7 @@ class _MobileHomeState extends State<MobileHome> {
               ),
 
               FeatureProjectMobile(
-                imagePath: "images/chico.gif",
+                imagePath: "assets/images/Chico_App.gif",
                 ontab: () {
                   method.launchURL(
                       "https://github.com/UsmanAsad87");
@@ -491,7 +491,7 @@ class _MobileHomeState extends State<MobileHome> {
               ),
 
               FeatureProjectMobile(
-                imagePath: "images/property_finder.gif",
+                imagePath: "assets/images/property_finder.gif",
                 ontab: () {
                   method.launchURL(
                       "https://github.com/UsmanAsad87/PropertyFinder");
@@ -505,7 +505,7 @@ class _MobileHomeState extends State<MobileHome> {
               ),
 
               FeatureProjectMobile(
-                imagePath: "images/Todeoy.png",
+                imagePath: "assets/images/Todeoy.png",
                 ontab: () {
                   method.launchURL(
                       "https://github.com/UsmanAsad87/ToDos");
@@ -575,7 +575,7 @@ class _MobileHomeState extends State<MobileHome> {
                                 padding: const EdgeInsets.all(2.75),
                                 child: Image(
                                   fit: BoxFit.cover,
-                                  image: AssetImage("images/$imgIndex.png"),
+                                  image: AssetImage("assets/images/$imgIndex.png"),
                                 ),
                               ),
                             ),

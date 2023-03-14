@@ -355,8 +355,22 @@ class _HomePageState extends State<HomePage> {
                                       SizedBox(
                                         height: size.height * 0.04,
                                       ),
+
+                                      // FeatureProject(
+                                      //   imagePath: "assets/images/PlantApp.png",
+                                      //   ontab: () {
+                                      //     method.launchURL(
+                                      //         "https://github.com/UsmanAsad87/The-Plant-App");
+                                      //   },
+                                      //   projectDesc:
+                                      //   "In The Plant App, I learned how to design complex UI design and animations to attract the audience.",
+                                      //   projectTitle: "The Plant App",
+                                      //   tech1: "Dart",
+                                      //   tech2: "Flutter",
+                                      //   tech3: "",
+                                      // ),
                                       FeatureProject(
-                                        imagePath: "images/ChatGPT.png",
+                                        imagePath: "assets/images/ChatGPT.png",
                                         ontab: () {
                                           method.launchURL(
                                               "https://github.com/UsmanAsad87/ChatGPT_Flutter_App");
@@ -370,7 +384,7 @@ class _HomePageState extends State<HomePage> {
                                       ),
 
                                       FeatureProject(
-                                        imagePath: "images/Groupie.gif",
+                                        imagePath: "assets/images/Groupie.gif",
                                         ontab: () {
                                           method.launchURL(
                                               "https://github.com/UsmanAsad87/Group-Chat-App");
@@ -384,7 +398,7 @@ class _HomePageState extends State<HomePage> {
                                       ),
 
                                       FeatureProject(
-                                        imagePath: "images/boiler.png",
+                                        imagePath: "assets/images/boiler.png",
                                         ontab: () {
                                           method.launchURL(
                                               "https://github.com/UsmanAsad87");
@@ -398,7 +412,7 @@ class _HomePageState extends State<HomePage> {
                                       ),
 
                                       FeatureProject(
-                                        imagePath: "images/Melanated_Audacity.gif",
+                                        imagePath: "assets/images/Melanated_Audacity.gif",
                                         ontab: () {
                                           method.launchURL(
                                               "https://github.com/UsmanAsad87");
@@ -412,7 +426,7 @@ class _HomePageState extends State<HomePage> {
                                       ),
                                       //ff
                                       FeatureProject(
-                                        imagePath: "images/PlantApp.png",
+                                        imagePath: "assets/images/PlantApp.png",
                                         ontab: () {
                                           method.launchURL(
                                               "https://github.com/UsmanAsad87/The-Plant-App");
@@ -426,7 +440,7 @@ class _HomePageState extends State<HomePage> {
                                       ),
 
                                       FeatureProject(
-                                        imagePath: "images/chico.gif",
+                                        imagePath: "assets/images/Chico_App.gif",
                                         ontab: () {
                                           method.launchURL(
                                               "https://github.com/UsmanAsad87");
@@ -440,7 +454,7 @@ class _HomePageState extends State<HomePage> {
                                       ),
 
                                       FeatureProject(
-                                        imagePath: "images/property_finder.gif",
+                                        imagePath: "assets/images/property_finder.gif",
                                         ontab: () {
                                           method.launchURL(
                                               "https://github.com/UsmanAsad87/PropertyFinder");
@@ -454,7 +468,7 @@ class _HomePageState extends State<HomePage> {
                                       ),
 
                                       FeatureProject(
-                                        imagePath: "images/Todeoy.png",
+                                        imagePath: "assets/images/Todeoy.png",
                                         ontab: () {
                                           method.launchURL(
                                               "https://github.com/UsmanAsad87/ToDos");
@@ -494,16 +508,16 @@ class _HomePageState extends State<HomePage> {
                                                   MainAxisAlignment.spaceAround,
                                               children: [
                                                 OSImages(
-                                                  image: "images/2.png",
+                                                  image: "assets/images/2.png",
                                                 ),
                                                 OSImages(
-                                                  image: "images/7.png",
+                                                  image: "assets/images/7.png",
                                                 ),
                                                 OSImages(
-                                                  image: "images/8.png",
+                                                  image: "assets/images/8.png",
                                                 ),
                                                 OSImages(
-                                                  image: "images/5.png",
+                                                  image: "assets/images/5.png",
                                                 ),
                                               ],
                                             ),
@@ -563,16 +577,16 @@ class _HomePageState extends State<HomePage> {
                                               MainAxisAlignment.spaceAround,
                                               children: [
                                                 OSImages(
-                                                  image: "images/4.png",
+                                                  image: "assets/images/4.png",
                                                 ),
                                                 OSImages(
-                                                  image: "images/6.png",
+                                                  image: "assets/images/6.png",
                                                 ),
                                                 OSImages(
-                                                  image: "images/1.png",
+                                                  image: "assets/images/1.png",
                                                 ),
                                                 OSImages(
-                                                  image: "images/3.png",
+                                                  image: "assets/images/3.png",
                                                 ),
                                               ],
                                             ),
