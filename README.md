@@ -31,16 +31,10 @@ cd portfolio-flutter
 
 
 Install the project dependencies:
-
-arduino
-Copy code
 flutter pub get
 
 
 Start the development server:
-
-arduino
-Copy code
 flutter run
 
 
