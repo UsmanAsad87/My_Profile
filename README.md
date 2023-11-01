@@ -23,7 +23,7 @@ Copy code
 git clone https://github.com/UsmanAsad87/My_Profile.git
 
 
-Change directory to the project folder:
+Change the directory to the project folder:
 
 bash
 Copy code
@@ -47,7 +47,7 @@ The project structure is organized as follows:
 lib/: Contains the Flutter source code for the website and mobile app.
 web/: Contains web-specific assets and configuration files.
 assets/: Stores images and other static assets used in the app.
-pubspec.yaml: Defines the project dependencies and configuration.
+pubspec.yaml: Defines the project dependencies
 Features
 
 This portfolio showcases the following features:
