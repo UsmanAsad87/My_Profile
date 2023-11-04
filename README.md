@@ -11,8 +11,9 @@ Deployment
 Contributing
 License
 Getting Started
-Prerequisites
-Flutter installed on your local machine.
+
+
+Flutter is installed on your local machine.
 A code editor or IDE (e.g., Visual Studio Code, Android Studio) with Flutter plugins/extensions.
 Installation
 
